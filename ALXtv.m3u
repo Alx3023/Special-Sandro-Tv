@@ -1,0 +1,124 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.discoradio.it/images/logo.png",Discoradio
+https://stream.discoradio.radio/audio/disco.stream_aac64/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.djossa.com/wp-content/uploads/2020/04/DJ-OSSO-RADIO.png",DJ Osso Radio
+https://stream.rcs.revma.com/x3ab37sgn7uvvv
+
+#EXTINF:-1 tvg-logo="https://www.radio708090.it/images/logo.png",Radio 70 80 90
+https://rblive.it:8170/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://www.radio708090.it/images/logo.png",Radio 70 80 90 Dance
+https://rblive.it:8060/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://www.radio708090.it/images/logo.png",Radio 70 80 90 Italia
+https://rblive.it:8070/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://www.radio708090.it/images/logo.png",Radio 70 80 90 Rock
+https://rblive.it:8090/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://www.mattylive.com/images/logo.png",Matty Live Radio
+https://s46.radiolize.com/radio/8020/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://www.r101.it/static/images/r101.png",R101 Diretta
+http://icecast.unitedradio.it/r101
+
+#EXTINF:-1 tvg-logo="https://www.radio24.it/static/images/radio24.png",Radio 24
+http://shoutcast.radio24.it:8000/listen.pls
+
+#EXTINF:-1 tvg-logo="https://www.capital.it/static/images/capital.png",Radio Capital
+http://radiocapital-lh.akamaihd.net/i/RadioCapital_Live_1@196312/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radiocrikcrok.it/immagini/logo.png",Radio Crik Crok
+http://nr2.newradio.it:8282
+
+#EXTINF:-1 tvg-logo="https://www.radiocuore.it/immagini/logo.png",Radio Cuore
+http://nr9.newradio.it:9029
+
+#EXTINF:-1 tvg-logo="https://www.deejay.it/static/images/deejay.png",Radio Deejay
+http://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.giornaleradio.it/immagini/logo.png",Radio Giornaleradio
+https://gr.fluidstream.eu/gr1.mp3
+
+#EXTINF:-1 tvg-logo="https://www.radioibiza.it/images/logo.png",Radio Ibiza
+http://wma02.fluidstream.net:5010/
+
+#EXTINF:-1 tvg-logo="https://www.kisskiss.it/immagini/logo.png",Radio Kiss Kiss
+http://ice07.fluidstream.net:8080/KissKiss.mp3
+
+#EXTINF:-1 tvg-logo="https://www.kisskiss.it/immagini/logo.png",Radio Kiss Kiss Italia
+http://wma07.fluidstream.net:3616/;stream.nsv
+
+#EXTINF:-1 tvg-logo="https://www.kisskiss.it/immagini/logo.png",Radio Kiss Kiss Napoli
+http://ice08.fluidstream.net/KKNapoli.aac
+
+#EXTINF:-1 tvg-logo="https://www.lattemiele.it/immagini/logo.png",Radio LatteMiele
+http://onair18.xdevel.com:8014/
+
+#EXTINF:-1 tvg-logo="https://www.m2o.it/static/images/m2o.png",Radio m2o
+http://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radiomarte.it/immagini/logo.png",Radio Marte
+http://onair18.xdevel.com:8212/
+
+#EXTINF:-1 tvg-logo="https://www.radiomarte.it/immagini/logo.png",Radio Marte 2
+https://stream5.xdevel.com/audio1s975753-314/stream/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://www.radiomontecarlo.net/images/logo.png",Radio Monte Carlo
+http://edge.radiomontecarlo.net/RMC.mp3
+
+#EXTINF:-1 tvg-logo="https://www.radiomontecarlo.net/images/logo.png",Radio Monte Carlo 2
+http://edge.radiomontecarlo.net/MC2.mp3
+
+#EXTINF:-1 tvg-logo="https://www.radionorba.it/immagini/logo.png",Radio Norba
+http://onair20.xdevel.com:8218/
+
+#EXTINF:-1 tvg-logo="https://www.radioondaverde.it/images/logo.png",Radio Onda Verde
+https://s2.shoutitaly.com/listen/radioondaverde/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://www.radiosubasio.it/immagini/logo.png",Radio Subasio
+http://onair18.xdevel.com:8152
+
+#EXTINF:-1 tvg-logo="https://www.radiosubasio.it/immagini/logo.png",Radio Subasio +
+http://onair11.xdevel.com:8050
+
+#EXTINF:-1 tvg-logo="https://www.radiozeta.it/immagini/logo.png",Radio Zeta L'Italiana
+http://shoutcast.rtl.it:3030/stream/1/
+
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/static/images/radio/radio1.png",Rai Radio 1
+http://icestreaming.rai.it/1.mp3
+
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/static/images/radio/radio2.png",Rai Radio 2
+http://icestreaming.rai.it/2.mp3
+
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/static/images/radio/radio3.png",Rai Radio 3
+http://icestreaming.rai.it/3.mp3
+
+#EXTINF:-1 tvg-logo="https://www.rds.it/static/images/rds.png",RDS 100% Grandi Successi
+https://stream.rds.radio/audio/rds.stream_aac64/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rinradio.it/immagini/logo.png",RIN Radio Italia Network
+http://sr9.inmystream.info:8006
+
+#EXTINF:-1 tvg-logo="https://www.rtl.it/static/images/rtl.png",RTL
+http://shoutcast.rtl.it:3010/
+
+#EXTINF:-1 tvg-logo="https://www.rtl.it/static/images/rtl.png",RTL Best
+http://shoutcast.rtl.it:3020/
+
+#EXTINF:-1 tvg-logo="https://www.rtl.it/static/images/rtl.png",RTL Groove
+http://shoutcast.rtl.it:3040/
+
+#EXTINF:-1 tvg-logo="https://www.rtl.it/static/images/rtl.png",RTL ItalianStyle
+http://shoutcast.rtl.it:3030/
+
+#EXTINF:-1 tvg-logo="https://www.rtl.it/static/images/rtl.png",RTL Lounge
+http://shoutcast.rtl.it:3070/
+
+#EXTINF:-1 tvg-logo="https://www.rtl.it/static/images/rtl.png",RTL Radiofreccia
+http://shoutcast.rtl.it:3060/
+
+#EXTINF:-1 tvg-logo="https://www.virginradio.it/static/images/virgin.png",Virgin Radio
+http://icecast.unitedradio.it/Virgin.mp3
